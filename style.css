@@ -1,0 +1,27 @@
+.* {
+  box-sizing:border-box;
+  float:left;
+}
+
+.title {}
+body{
+  text-align: center;
+  font-family:Arial Black;
+  width:100%;
+}
+
+a:link {
+  color:black
+}
+
+a:visited {
+  color:black
+}
+
+a:hover {
+  color:blue
+}
+
+a:active {
+  color:purple
+}
