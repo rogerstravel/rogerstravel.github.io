@@ -29,7 +29,11 @@ a:hover {
 }
 
 a:active {
-  color: purple;
+  color: white;
+}
+
+nav li.selected {
+  color: #606060; 
 }
 
 nav ul {
