@@ -78,3 +78,7 @@ section {
   padding-left: 24px;
   padding-right: 24px;
 }
+body, section, img {
+  border: 2px solid #B1B1B1;
+  border-radius: 16px;
+}
