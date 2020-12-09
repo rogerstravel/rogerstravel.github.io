@@ -71,3 +71,10 @@ nav ul li a {
   text-decoration: none;
   color: #111111;
 }
+section {
+  background-color: #FFFFFF;
+  margin-bottom: 24px;
+  min-height: 320px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
