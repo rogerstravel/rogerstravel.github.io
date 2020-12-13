@@ -51,6 +51,7 @@ nav ul {
   font-family: sans-serif;
   font-weight: bold;
   padding: 16px;
+  text-align: left;
 }
 nav ul li {
   display: inline;
